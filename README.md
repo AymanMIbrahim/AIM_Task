@@ -14,5 +14,5 @@
 
 
 # Important Files:
-- Download These files before run Deployment.ipnb
+- Download These files before run Deployment.ipynb
 - Link: https://drive.google.com/drive/folders/1uboW5j4-9Uv3Cj1q7dd6ONIoUOjqpN5i?usp=sharing
